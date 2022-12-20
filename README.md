@@ -6,8 +6,10 @@ Esta aplicação vai criar, ler peaquisar, atualizare deletar dados.
  npm create vite@latest name-of-your-project -- --template react
 ### follow prompts
 cd <your new project directory>
+
 npm install react-router-dom localforage match-sorter sort-by
-npm run dev ** 
+
+npm run dev 
 
 
 ## exemplos aplicação react
